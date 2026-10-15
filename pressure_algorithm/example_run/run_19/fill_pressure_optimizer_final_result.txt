@@ -1,0 +1,21 @@
+FINAL SELECTED RESULT
+================================================================================
+Final ODB: Opt_smirnov_att11_s008_p1p5.odb
+Final job: Opt_smirnov_att11_s008_p1p5
+Final pressure: 1.50000000
+Final step: Step-1
+Final frame index: 2035
+Final increment number: 2035
+Final frame value: 1005.91113281
+Final target fill: 0.80000000
+Final actual fill: 0.80005116
+Final top area: 12957.49740573
+Final min thickness: 2.59838566
+Final pressure at selected frame: 1.50000000
+Final elapsed time in stage: 212.00000000
+Final schedule time: 1005.91113281
+Final interpolated crossing time: 1005.80145004
+Final crossing fill: 0.80000000
+Final crossing alpha: 0.78063445
+Final pressure at crossing: 1.50000000
+Final status: OK
